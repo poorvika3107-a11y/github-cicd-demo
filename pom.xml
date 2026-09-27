@@ -1,0 +1,10 @@
+<project xmls="https://maven.apache.org/pom/4.0.0">
+<modelversion>4.0.0</modelversion>
+<groupid>com.example<groupid>
+<artifactid>gitHub-CICD-Demo</artifactid>
+<version>1.0</version>
+<properties>
+<maven.complier.source>21</maven.complier.source>
+<maven.complier.target>21</maven.complier.target>
+</properties>
+</project>
